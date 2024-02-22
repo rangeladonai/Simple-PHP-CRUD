@@ -1,0 +1,15 @@
+{
+    "name": "php/simple-php-crud",
+    "description": "CRUD simples com PHP e MVC",
+    "autoload": {
+        "psr-4": {
+            "Php\\SimplePhpCrud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rangeladonai"
+        }
+    ],
+    "require": {}
+}
