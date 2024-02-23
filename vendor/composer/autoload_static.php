@@ -26,7 +26,16 @@ class ComposerStaticInitecce313b0959aacf5b069b177d8c3a4f
         'P' => 
         array (
             'Php\\SimplePhpCrud\\' => 18,
+            'PhpOption\\' => 10,
             'Pecee\\' => 6,
+        ),
+        'G' => 
+        array (
+            'GrahamCampbell\\ResultType\\' => 26,
+        ),
+        'D' => 
+        array (
+            'Dotenv\\' => 7,
         ),
     );
 
@@ -51,9 +60,21 @@ class ComposerStaticInitecce313b0959aacf5b069b177d8c3a4f
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),
+        'PhpOption\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/phpoption/phpoption/src/PhpOption',
+        ),
         'Pecee\\' => 
         array (
             0 => __DIR__ . '/..' . '/pecee/simple-router/src/Pecee',
+        ),
+        'GrahamCampbell\\ResultType\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/graham-campbell/result-type/src',
+        ),
+        'Dotenv\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/vlucas/phpdotenv/src',
         ),
     );
 
