@@ -3,7 +3,7 @@
         'name' => 'php/simple-php-crud',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'f6d8f9da8826ad76cb281c6d2bff90e7bf2d392a',
+        'reference' => '7f08b7b868d30576b70799692e055e96e3734068',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -31,7 +31,7 @@
         'php/simple-php-crud' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'f6d8f9da8826ad76cb281c6d2bff90e7bf2d392a',
+            'reference' => '7f08b7b868d30576b70799692e055e96e3734068',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
